@@ -1,0 +1,5 @@
+
+def test_fuser():
+
+    assert (2 + 3) == 5
+    
