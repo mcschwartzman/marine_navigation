@@ -6,5 +6,5 @@ Node::Node(){
 }
 
 Node::Node(int id){
-    id = id;
+    this->id = id;
 }
